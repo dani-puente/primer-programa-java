@@ -3,6 +3,7 @@ public class Prueba{
 		System.out.println("Daniel Puente Treceño");
 		System.out.println("Naci en Leon en 1997");
 		System.out.println("Vivo en Quintana de Rueda, tengo un W10");
+		System.out.println("Mi nombre completo es Daniel Puente Treceño");
 	}
 
 }
